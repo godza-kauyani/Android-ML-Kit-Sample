@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "348890195442",
+    "firebase_url": "https://mymlkitcamera.firebaseio.com",
+    "project_id": "mymlkitcamera",
+    "storage_bucket": "mymlkitcamera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348890195442:android:0995e9c71d28daee",
+        "android_client_info": {
+          "package_name": "com.godza.kauyani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348890195442-lhae8kce310fkbjieu8qdajpj8qrpvde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Q2sBbQAonzYVc2Eto8X1yW_LSNpPTdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
